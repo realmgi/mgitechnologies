@@ -28,7 +28,7 @@ function sendToEmail() {
         return;
     }
 
-    var email = "marwanaghaliismail2007@gmail.com";
+    var email = "officialmgitechnologies@gmail.com";
     var subject = encodeURIComponent("Inquiry from MGI Website");
     var body = encodeURIComponent("Name: " + name + "\nContact: " + phone + "\n\nMessage:\n" + message);
 
